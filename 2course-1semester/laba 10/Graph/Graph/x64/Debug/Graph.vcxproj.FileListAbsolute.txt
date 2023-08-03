@@ -1,0 +1,4 @@
+D:\Роман\ІППТ\2 Курс\1 Семестир\ООП\Labs\Laba_10\Graph\Graph\x64\Debug\Graph.vcxproj.AssemblyReference.cache
+D:\Роман\ІППТ\2 Курс\1 Семестир\ООП\Labs\Laba_10\Graph\Graph\x64\Debug\Graph.vcxproj.SuggestedBindingRedirects.cache
+D:\Роман\ІППТ\2 Курс\1 Семестир\ООП\Labs\Laba_10\Graph\Graph\x64\Debug\Graph.MainForm.resources
+D:\Роман\ІППТ\2 Курс\1 Семестир\ООП\Labs\Laba_10\Graph\Graph\x64\Debug\Graph.vcxproj.GenerateResource.cache
