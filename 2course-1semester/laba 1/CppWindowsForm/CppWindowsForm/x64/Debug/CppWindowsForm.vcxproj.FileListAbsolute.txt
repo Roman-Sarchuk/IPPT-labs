@@ -1,0 +1,4 @@
+D:\Роман\ІППТ\2 Курс\1 Семестир\ООП\Labs\Laba_1\CppWindowsForm\CppWindowsForm\x64\Debug\CppWindowsForm.vcxproj.AssemblyReference.cache
+D:\Роман\ІППТ\2 Курс\1 Семестир\ООП\Labs\Laba_1\CppWindowsForm\CppWindowsForm\x64\Debug\CppWindowsForm.vcxproj.SuggestedBindingRedirects.cache
+D:\Роман\ІППТ\2 Курс\1 Семестир\ООП\Labs\Laba_1\CppWindowsForm\CppWindowsForm\x64\Debug\CppWindowsForm.MainForm.resources
+D:\Роман\ІППТ\2 Курс\1 Семестир\ООП\Labs\Laba_1\CppWindowsForm\CppWindowsForm\x64\Debug\CppWindowsForm.vcxproj.GenerateResource.cache
