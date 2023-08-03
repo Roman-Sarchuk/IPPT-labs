@@ -1,0 +1,4 @@
+D:\Роман\ІППТ\2 Курс\1 Семестир\ООП\Labs\Laba_5\ArrayProcessing\ArrayProcessing\x64\Debug\ArrayProcessing.vcxproj.AssemblyReference.cache
+D:\Роман\ІППТ\2 Курс\1 Семестир\ООП\Labs\Laba_5\ArrayProcessing\ArrayProcessing\x64\Debug\ArrayProcessing.vcxproj.SuggestedBindingRedirects.cache
+D:\Роман\ІППТ\2 Курс\1 Семестир\ООП\Labs\Laba_5\ArrayProcessing\ArrayProcessing\x64\Debug\ArrayProcessing.MainForm.resources
+D:\Роман\ІППТ\2 Курс\1 Семестир\ООП\Labs\Laba_5\ArrayProcessing\ArrayProcessing\x64\Debug\ArrayProcessing.vcxproj.GenerateResource.cache
